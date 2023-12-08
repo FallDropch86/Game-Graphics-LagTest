@@ -1,0 +1,1 @@
+pyinstaller pogokart_mainclient.py --onefile --add-data "Po-GoKart;."
